@@ -1,4 +1,4 @@
-module xk6-hazelcast
+module github.com/LinaProg/xk6-hazelcast
 
 go 1.20
 
